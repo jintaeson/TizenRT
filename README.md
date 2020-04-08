@@ -12,7 +12,7 @@ Please find project details at [Wiki](https://github.com/Samsung/TizenRT/wiki) e
 - [How to Build](#how-to-build)
 - [Supported Board / Emulator](#supported-board--emulator)
 
-## Environment Setup
+## Environment Setup 
 
 TizenRT provides the easiest way to build with the use of [Docker](https://www.docker.com/).
 There is no need to install the required libraries and toolchains since the provided Docker container already includes everything required for TizenRT development.
