@@ -6,7 +6,7 @@
 TizenRT is lightweight RTOS-based platform to support low-end IoT devices.  
 Please find project details at [Wiki](https://github.com/Samsung/TizenRT/wiki) especially **[documentations page](https://github.com/Samsung/TizenRT/wiki/Documentations)**.
 
-## Contents
+## Contents    
 
 - [Environment Setup](#environment-setup)
 - [How to Build](#how-to-build)
